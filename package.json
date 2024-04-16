@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "benchmark": "^2.1.4",
+    "compile-json-stringify": "^0.1.2",
+    "fast-json-parse": "^1.0.3",
+    "fast-json-stable-stringify": "^2.1.0",
+    "fast-json-stringify": "^5.12.0",
+    "fast-safe-stringify": "^2.1.1",
+    "fast-stable-stringify": "^1.0.0",
+    "hyper-express": "^6.14.12",
+    "json.stringify2": "^0.1.11",
+    "jsonc": "^2.0.0",
+    "mariadb": "^3.2.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.2",
+    "safe-stable-stringify": "^2.4.3",
+    "slow-json-stringify": "^2.0.1",
+    "ujson": "^1.0.3",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.42.0"
+  }
+}
