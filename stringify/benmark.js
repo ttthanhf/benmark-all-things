@@ -297,9 +297,9 @@ suite
   .add("JSON.stringify2SwitchCase", () => {
     stringify2SwitchCase(data);
   })
-  // .add("JSON.stringify", () => {
-  //   JSON.stringify(data);
-  // })
+  .add("JSON.stringify", () => {
+    JSON.stringify(data);
+  })
   .on("cycle", (event) => {
     console.log(String(event.target));
   })
